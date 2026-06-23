@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://weavz.io/favicon-32.png" alt="Weavz Logo" /> [Weavz](https://weavz.io) - Governed app access for AI agents: one hosted runtime exposing 1,000+ app integrations (12,000+ tools) through Code Mode MCP, with scoped per-user credentials, Human Gates approvals, sandbox, files, and durable state. Hosted MCP connector at https://platform.weavz.io/mcp/weavz
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
